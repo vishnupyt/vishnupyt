@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 About Me
-I'm a passionate **Data Scientist** and **Python Developer** with a love for solving real-world problems using data-driven solutions. I enjoy working on machine learning, data visualization, and open-source projects. When I'm not coding, you can find me exploring new datasets or contributing to the tech community.
+I'm a passionate **Data Scientist** with a love for solving real-world problems using data-driven solutions. I enjoy working on machine learning, data visualization, and open-source projects. When I'm not coding, you can find me exploring new datasets or contributing to the tech community.
 
 ---
 
