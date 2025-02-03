@@ -30,6 +30,8 @@ I'm a passionate **Data Scientist** with a love for solving real-world problems 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
 ---
 
@@ -43,7 +45,7 @@ I'm a passionate **Data Scientist** with a love for solving real-world problems 
 
 ### 🌟 Featured Projects
 
-- [Credit Card Fraud Detection Using Deep Learning and Face Recognition]([https://github.com/vishnupyt/project1](https://github.com/vishnupyt/Credit-Card-Fraud-Detection-Using-Face-Recognition)): Credit Card Fraud Detection using Face Recognition and OTP Verification.
+- [Credit Card Fraud Detection Using Face Recognition](https://github.com/vishnupyt/Credit-Card-Fraud-Detection-Using-Face-Recognition): A secure system to detect fraudulent credit card transactions using face recognition technology.
 - [Bike Sales Dataset][(https://github.com/vishnupyt/project2](https://github.com/vishnupyt/my-excel-dashboard)): A data visualization dashboard using Microsoft Excel.
 
 ---
@@ -59,7 +61,7 @@ I'm a passionate **Data Scientist** with a love for solving real-world problems 
 ### 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/s-r-vishnu-ba46b025b/))
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/your-twitter-handle](https://x.com/vishnu_pyt))
+![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)([https://x.com/your-x-handle](https://x.com/vishnu_pyt))
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]([https://medium.com/@your-medium-handle](https://medium.com/@vishnusr023))
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)]([https://www.kaggle.com/your-kaggle-profile](https://www.kaggle.com/vishnusr04))
 
