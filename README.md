@@ -1,103 +1,77 @@
-# 👋 Hi there, I'm Vishnu!
+# Hi there, I'm Vishnu! 👋
 
-![Vishnu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishnupyt&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
----
-
-## 🌟 About Me
-
-- 🔭 I’m currently working on **Data Science** and **Machine Learning** projects.
-- 🌱 I’m learning more about **AI**, **Deep Learning**, and **Cloud Computing**.
-- 💬 Ask me about **Python**, **Data Analysis**, **Machine Learning**, or anything tech-related!
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/your-profile/) | [Twitter](https://twitter.com/your-profile)
-- ⚡ Fun fact: I love solving real-world problems with code!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=00FF00&width=435&lines=Data+Science+Enthusiast;Python+Lover;Open-Source+Contributor;Always+Learning+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 ---
 
-## 🛠 Skills
-
-### Programming Languages & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-R-orange?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/-SQL-green?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
-
-### Data Analysis & Visualization Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-Excel-2B5F9A?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel Badge"/>
-  <img src="https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI Badge"/>
-</p>
+### 🚀 About Me
+I'm a passionate **Data Scientist** and **Python Developer** with a love for solving real-world problems using data-driven solutions. I enjoy working on machine learning, data visualization, and open-source projects. When I'm not coding, you can find me exploring new datasets or contributing to the tech community.
 
 ---
 
-## 🚀 My Projects
+### 🛠️ Tech Stack
 
-Here are some of the projects I've worked on:
+#### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-1. **Project Name 1** - _A brief description of the project_  
-   ![GitHub Repo stars](https://img.shields.io/github/stars/vishnupyt/project-name-1?style=social)  
-   [🔗 View Project](https://github.com/vishnupyt/project-name-1)
+#### Data Science & Machine Learning
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-0C7BB0?style=for-the-badge&logo=seaborn&logoColor=white)
 
-2. **Project Name 2** - _Another brief description of the project_  
-   ![GitHub Repo stars](https://img.shields.io/github/stars/vishnupyt/project-name-2?style=social)  
-   [🔗 View Project](https://github.com/vishnupyt/project-name-2)
-
-3. **Project Name 3** - _Yet another brief description of the project_  
-   ![GitHub Repo stars](https://img.shields.io/github/stars/vishnupyt/project-name-3?style=social)  
-   [🔗 View Project](https://github.com/vishnupyt/project-name-3)
-
----
-
-## 📈 Data Science Workflow
-
-![Data Science Workflow](https://miro.medium.com/max/1400/1*QdL9h8o6XeY5bJmKZj7rFw.png)
-
----
-
-## 🎉 Fun Section
-
-### Some Cool Stickers & GIFs
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif" alt="Coding GIF" width="300"/>
-</p>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" alt="GitHub Icon" width="50"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg" alt="Python Icon" width="50"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/tensorflow.svg" alt="TensorFlow Icon" width="50"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/docker.svg" alt="Docker Icon" width="50"/>
-</p>
+#### Tools & Platforms
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
-![Vishnu's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnupyt&layout=compact&theme=radical)
+![Vishnu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishnupyt&show_icons=true&theme=radical)
 
-![Vishnu's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vishnupyt&theme=radical)
-
----
-
-## 🤝 Connect with Me
-
-<p align="center">
-  <a href="[https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/s-r-vishnu-ba46b025b/)"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="[https://twitter.com/your-profile](https://x.com/vishnu_pyt)"><img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="mailto:vishnusr023@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnupyt&layout=compact&theme=radical)
 
 ---
 
-## 🙏 Support
+### 🌟 Featured Projects
 
-If you like my work, please consider giving me a ⭐️ on my repositories! Your support means a lot to me!
+- [Credit Card Fraud Detection Using Deep Learning and Face Recognition]([https://github.com/vishnupyt/project1](https://github.com/vishnupyt/Credit-Card-Fraud-Detection-Using-Face-Recognition)): Credit Card Fraud Detection using Face Recognition and OTP Verification.
+- [Bike Sales Dataset][(https://github.com/vishnupyt/project2](https://github.com/vishnupyt/my-excel-dashboard)): A data visualization dashboard using Microsoft Excel.
 
 ---
 
-Made with ❤️ by Vishnu | Last Updated: ![Date](https://img.shields.io/badge/Last%20Updated-October%202023-blue)
+### 🎯 Goals for 2025
+- Contribute more to open-source projects.
+- Learn advanced deep learning techniques.
+- Build end-to-end data science projects.
+- Network with like-minded developers and data scientists.
+
+---
+
+### 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/s-r-vishnu-ba46b025b/))
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/your-twitter-handle](https://x.com/vishnu_pyt))
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]([https://medium.com/@your-medium-handle](https://medium.com/@vishnusr023))
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)]([https://www.kaggle.com/your-kaggle-profile](https://www.kaggle.com/vishnusr04))
+
+---
+
+### 💡 Fun Fact
+I once trained a model to predict the best time to drink coffee ☕. Spoiler: It's always coffee time!
+
+---
+
+![GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+
+---
+
+⭐️ From [Vishnu](https://github.com/vishnupyt)
