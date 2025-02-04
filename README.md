@@ -43,6 +43,12 @@ I'm a passionate **Data Scientist** with a love for solving real-world problems 
 
 ---
 
+### 📈 GitHub Activity Graph
+
+[![Vishnu's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishnupyt&theme=react-dark&hide_border=true)](https://github.com/vishnupyt)
+
+---
+
 ### 🌟 Featured Projects
 
 - [Credit Card Fraud Detection Using Face Recognition](https://github.com/vishnupyt/Credit-Card-Fraud-Detection-Using-Face-Recognition): A secure system to detect fraudulent credit card transactions using face recognition technology.
