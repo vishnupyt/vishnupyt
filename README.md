@@ -53,6 +53,7 @@ I'm a passionate **Data Scientist** with a love for solving real-world problems 
 
 - [Credit Card Fraud Detection Using Face Recognition](https://github.com/vishnupyt/Credit-Card-Fraud-Detection-Using-Face-Recognition): A secure system to detect fraudulent credit card transactions using face recognition technology.
 - [Bike Sales Dashboard](https://github.com/vishnupyt/my-excel-dashboard): A data visualization dashboard created using Microsoft Excel.
+- [To-Do List Web App](https://github.com/vishnupyt/to-do-list): A simple and interactive To-Do List web application built using HTML, CSS, and JavaScript. This app allows users to manage their tasks efficiently with features like adding, removing, marking tasks as completed, and viewing all tasks.
 
 ---
 
