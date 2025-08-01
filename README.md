@@ -52,9 +52,7 @@ I use tools like **n8n**, **Zapier**, **Make**, **ChatGPT**, and **APIs** to aut
 
 - ✅ Hit $1K+ in earnings with no-code automations  
 - 🚀 Launch my own AI Automation Agency  
-- 📚 Create tutorials & content on no-code tools  
 - 🌐 Collaborate with global AI automation builders  
-- 🎥 Start a YouTube channel focused on AI + No-Code  
 
 ---
 
